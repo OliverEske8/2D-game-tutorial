@@ -3,13 +3,13 @@ Cmd: initializeCompiler
 Cmd: compileComputeKernel
   api=4 insize=1176 outsize=781 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=5004 outsize=9129 ok=1
+  api=4 insize=7330 outsize=9833 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=9166 outsize=8765 ok=1
+  api=4 insize=5004 outsize=4101 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9166 outsize=8529 ok=1
 Cmd: compileComputeKernel
   api=4 insize=9166 outsize=8909 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=2867 outsize=353 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=1454 outsize=597 ok=1
+  api=4 insize=1806 outsize=553 ok=1
 Cmd: initializeCompiler
